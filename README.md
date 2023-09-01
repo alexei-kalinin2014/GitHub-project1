@@ -3,5 +3,4 @@ head
 head 223
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-	
+<head></head>
